@@ -13,7 +13,7 @@ const Hero = () => {
           Rated 4.8/5 (243 reviews)
         </p>
         <h1 className="text-4xl font-bold lg:text-5xl">
-          Create your portfolio in minutes
+        portfolio in minutes
         </h1>
         <p className="text-gray-600">
           With Fiber, you can setup your own personal portfolio in minutes with
